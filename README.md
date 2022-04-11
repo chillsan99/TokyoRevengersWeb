@@ -1,0 +1,2 @@
+# TokyoRevengersWeb
+This is just a fan-page I made for the Anime/Manga Tokyo Revengers. It is a project I am working on that currently only has an index page, but I will be adding more pages for characters, staff members, and possibly the live action adaptation. I am building with scratch without any sort of mock-up, and I am building this with HTML, and CSS, but will later implement Javascript as well. 
